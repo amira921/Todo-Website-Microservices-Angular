@@ -1,8 +1,8 @@
-[submodule "task-service"]
-	path = task-service
-	url = https://github.com/amira921/Notification-Service
-	branch = master
 [submodule "notification-service"]
 	path = notification-service
 	url = https://github.com/amira921/Notification-Service
+	branch = master
+[submodule "task-service"]
+	path = task-service
+	url = https://github.com/amira921/Task-Service
 	branch = master
