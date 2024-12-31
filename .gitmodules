@@ -6,3 +6,7 @@
 	path = task-service
 	url = https://github.com/amira921/Task-Service
 	branch = master
+[submodule "authentication-service"]
+	path = authentication-service
+	url = https://github.com/amira921/Authentication-Service
+	branch = master
