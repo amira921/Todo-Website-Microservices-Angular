@@ -10,3 +10,7 @@
 	path = authentication-service
 	url = https://github.com/amira921/Authentication-Service
 	branch = master
+[submodule "ui-angular"]
+	path = ui-angular
+	url = https://github.com/amira921/Todo-Website-Angular
+	branch = master
